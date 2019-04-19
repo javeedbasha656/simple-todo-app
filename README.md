@@ -1,10 +1,17 @@
-Very simple Firestore React Implementation
+React-Todo-list
 
-To run
+A simple example of todo app in react js with Todo list
 
-```
-  yarn install
-  yarn start
-```
+Requirements:
 
-Also you will need to add your Firebase config in `createStore.js`
+Create-react-app (Project Name)
+
+npm
+
+To start the Application:
+
+Install the dependencies: npm install
+
+Start development server: npm start
+
+Page will redirect to http://localhost:3000/
